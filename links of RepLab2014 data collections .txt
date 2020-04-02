@@ -1,0 +1,1 @@
+You can downloard RepLab2014 Data collection  from here : http://nlp.uned.es/replab2014/replab2014-dataset.tar.gz
